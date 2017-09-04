@@ -1,3 +1,6 @@
+---
+layout: index
+---
 # Project ICARUS
 *** The University of Auckland - ECE ***
 *** Final Year Engineering Project ***
